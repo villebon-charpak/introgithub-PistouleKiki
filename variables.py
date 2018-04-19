@@ -58,6 +58,7 @@ nombre = 2 # ne pas toucher à cette ligne !
 
 
 print(nombre)
+print("tu es un sorcier Harry")
 
 
 # Exercice 1.4
