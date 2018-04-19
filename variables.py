@@ -40,7 +40,7 @@ print(ma_variable)
 # ... Écrivez votre code ici ...
 
 texte = "Salut !"
-
+print("tu es un sorcier Harry")
 
 
 # Exercice 1.3
